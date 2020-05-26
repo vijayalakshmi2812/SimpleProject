@@ -5,6 +5,7 @@ public class Simple {
 		System.out.println("Welcome");
 		System.out.println("Hello");
 		System.out.println("world");
+		System.out.println("2020");
 	}
 
 }
